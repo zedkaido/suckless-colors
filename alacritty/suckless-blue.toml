@@ -1,0 +1,39 @@
+[colors]
+
+[colors.primary]
+background = "#000087"
+foreground = "#eeeeee"
+
+[colors.normal]
+black = "#000000"
+red = "#ff0000"
+green = "#eeeeee"
+yellow = "#ffd700"
+blue = "#eeeeee"
+magenta = "#ff0087"
+cyan = "#00ffd7"
+white = "#eeeeee"
+
+[colors.cursor]
+text = "#000000"
+cursor = "#ffffff"
+
+[colors.vi_mode_cursor]
+text = "CellBackground"
+cursor = "CellForeground"
+
+[colors.search.matches]
+foreground = "#000000"
+background = "#ffd700"
+
+[colors.search.focused_match]
+foreground = "#eeeeee"
+background = "#000000"
+
+[colors.line_indicator]
+foreground = "#eeeeee"
+background = "#000000"
+
+[colors.footer_bar]
+foreground = "#eeeeee"
+background = "#000000"
