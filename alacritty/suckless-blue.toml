@@ -10,13 +10,13 @@ red = "#ff0000"
 green = "#eeeeee"
 yellow = "#ffd700"
 blue = "#eeeeee"
-magenta = "#ff0087"
-cyan = "#00ffd7"
+magenta = "#eeeeee"
+cyan = "#eeeeee"
 white = "#eeeeee"
 
 [colors.cursor]
-text = "#000000"
-cursor = "#ffffff"
+text = "CellBackground"
+cursor = "CellForeground"
 
 [colors.vi_mode_cursor]
 text = "CellBackground"

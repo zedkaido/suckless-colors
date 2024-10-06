@@ -18,6 +18,8 @@ sync_vim_colors() {
 	cp "$HOME/.vim/colors/suckless-blue.vim" ./vim/
 }
 
+set -x # verbose mode on
 sync_alacritty_colors
 sync_tmux_colors
 sync_vim_colors
+set +x # verbose mode off

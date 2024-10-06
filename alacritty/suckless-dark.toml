@@ -6,12 +6,12 @@ foreground = "#eeeeee"
 
 [colors.normal]
 black = "#000000"
-red = "#eeeeee"
+red = "#ff0000"
 green = "#eeeeee"
 yellow = "#ffd700"
 blue = "#eeeeee"
-magenta = "#ff0087"
-cyan = "#00ffd7"
+magenta = "#eeeeee"
+cyan = "#eeeeee"
 white = "#eeeeee"
 
 [colors.cursor]
