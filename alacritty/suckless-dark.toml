@@ -27,7 +27,7 @@ foreground = "#000000"
 background = "#ffd700"
 
 [colors.search.focused_match]
-foreground = "#ffffff"
+foreground = "#ffd700"
 background = "#0000ff"
 
 [colors.line_indicator]
