@@ -1,0 +1,25 @@
+background = #000000
+foreground = #eeeeee
+
+palette = 0=#000000
+palette = 1=#ff0000
+palette = 2=#eeeeee
+palette = 3=#ffd700
+palette = 4=#eeeeee
+palette = 5=#eeeeee
+palette = 6=#eeeeee
+palette = 7=#eeeeee
+palette = 8=#000000
+palette = 9=#eeeeee
+palette = 10=#eeeeee
+palette = 11=#eeeeee
+palette = 12=#eeeeee
+palette = 13=#eeeeee
+palette = 14=#eeeeee
+palette = 15=#eeeeee
+
+cursor-color = #eeeeee
+cursor-text = #000000
+
+selection-background = #101010
+selection-foreground = #ffd700
