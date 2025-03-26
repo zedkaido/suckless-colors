@@ -8,7 +8,7 @@ foreground = "#000000"
 black = "#000000"
 red = "#ff0000"
 green = "#000000"
-yellow = "#000000"
+yellow = "#000087"
 blue = "#000000"
 magenta = "#000000"
 cyan = "#000000"
@@ -16,7 +16,7 @@ white = "#ffffff"
 
 [colors.cursor]
 text = "#ffffff"
-cursor = "#0000ff"
+cursor = "#000000"
 
 [colors.vi_mode_cursor]
 text = "CellBackground"
@@ -28,7 +28,7 @@ background = "#ffd700"
 
 [colors.search.focused_match]
 foreground = "#ffffff"
-background = "#0000ff"
+background = "#000087"
 
 [colors.line_indicator]
 foreground = "#ffffff"

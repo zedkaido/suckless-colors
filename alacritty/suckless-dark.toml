@@ -15,8 +15,8 @@ cyan = "#eeeeee"
 white = "#eeeeee"
 
 [colors.cursor]
-text = "#ffffff"
-cursor = "#0000ff"
+text = "#000000"
+cursor = "#ffffff"
 
 [colors.vi_mode_cursor]
 text = "CellBackground"
@@ -28,7 +28,7 @@ background = "#ffd700"
 
 [colors.search.focused_match]
 foreground = "#ffd700"
-background = "#0000ff"
+background = "#000087"
 
 [colors.line_indicator]
 foreground = "#eeeeee"
