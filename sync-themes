@@ -1,32 +1,39 @@
-#!/bin/zsh
+#!/usr/bin/env sh
 
-sync_vim_colors() {
+sync_vim_themes() {
 	cp "$HOME/.vim/colors/suckless-light.vim" ./vim/
 	cp "$HOME/.vim/colors/suckless-dark.vim" ./vim/
 	cp "$HOME/.vim/colors/suckless-blue.vim" ./vim/
 }
 
-sync_tmux_colors() {
+sync_emacs_themes() {
+	cp "$HOME/.emacs.d/themes/suckless-light-theme.el" ./emacs/
+	cp "$HOME/.emacs.d/themes/suckless-dark-theme.el" ./emacs/
+	cp "$HOME/.emacs.d/themes/suckless-blue-theme.el" ./emacs/
+}
+
+sync_tmux_themes() {
 	cp "$HOME/.config/tmux/colors/suckless-light.conf" ./tmux/
 	cp "$HOME/.config/tmux/colors/suckless-dark.conf" ./tmux/
 	cp "$HOME/.config/tmux/colors/suckless-blue.conf" ./tmux/
 }
 
-sync_alacritty_colors() {
+sync_alacritty_themes() {
 	cp "$HOME/.config/alacritty/colors/suckless-light.toml" ./alacritty/
 	cp "$HOME/.config/alacritty/colors/suckless-dark.toml" ./alacritty/
 	cp "$HOME/.config/alacritty/colors/suckless-blue.toml" ./alacritty/
 }
 
-sync_ghostty_colors() {
+sync_ghostty_themes() {
 	cp "/Users/x/.config/ghostty/themes/suckless-light" ./ghostty/
 	cp "/Users/x/.config/ghostty/themes/suckless-blue" ./ghostty/
 	cp "/Users/x/.config/ghostty/themes/suckless-dark" ./ghostty/
 }
 
 set -x # verbose mode on
-sync_tmux_colors
-sync_vim_colors
-sync_alacritty_colors
-sync_ghostty_colors
+sync_vim_themes
+sync_emacs_themes
+sync_tmux_themes
+sync_alacritty_themes
+sync_ghostty_themes
 set +x # verbose mode off

@@ -1,7 +1,13 @@
+# -------------------------------------------
+# https://github.com/zedkaido/suckless-themes
+# -------------------------------------------
+# For monochrome use: `TERM=vt100 <program>`
+# -------------------------------------------
+
 background = #ffffff
 foreground = #000000
 
-palette = 0=#000000
+palette = 0=#ffffff
 palette = 1=#ff0000
 palette = 2=#000000
 palette = 3=#000087
@@ -10,11 +16,13 @@ palette = 5=#000000
 palette = 6=#000000
 palette = 7=#000000
 palette = 8=#ffffff
-palette = 11=#000000
+palette = 9=#ff0000
+palette = 10=#000000
+palette = 11=#000087
 palette = 12=#000000
 palette = 13=#000000
 palette = 14=#000000
-palette = 15=#ffffff
+palette = 15=#000000
 
 cursor-color = #000000
 cursor-text = #ffffff

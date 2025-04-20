@@ -1,3 +1,9 @@
+# -------------------------------------------
+# https://github.com/zedkaido/suckless-themes
+# -------------------------------------------
+# For monochrome use: `TERM=vt100 <program>`
+# -------------------------------------------
+
 [colors]
 
 [colors.primary]
@@ -5,7 +11,7 @@ background = "#000087"
 foreground = "#eeeeee"
 
 [colors.normal]
-black = "#000000"
+black = "#000087"
 red = "#ff0000"
 green = "#eeeeee"
 yellow = "#ffd700"
