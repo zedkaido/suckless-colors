@@ -5,7 +5,7 @@
 
 (setq s-silver "#d0d0d0")
 (setq s-light-grey "#bcbcbc")
-(setq s-grey "#949494")
+(setq s-grey "#9e9e9e")
 (setq s-dark-grey "#1c1c1c")
 
 (setq s-red "#870000")
