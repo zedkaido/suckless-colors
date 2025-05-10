@@ -8,17 +8,17 @@
 
 [colors.primary]
 background = "#000000"
-foreground = "#eeeeee"
+foreground = "#d0d0d0"
 
 [colors.normal]
 black = "#000000"
 red = "#ff0000"
-green = "#eeeeee"
+green = "#d0d0d0"
 yellow = "#ffd700"
-blue = "#eeeeee"
-magenta = "#eeeeee"
-cyan = "#eeeeee"
-white = "#eeeeee"
+blue = "#d0d0d0"
+magenta = "#d0d0d0"
+cyan = "#d0d0d0"
+white = "#d0d0d0"
 
 [colors.cursor]
 text = "#000000"
@@ -37,9 +37,9 @@ foreground = "#ffd700"
 background = "#000087"
 
 [colors.line_indicator]
-foreground = "#eeeeee"
+foreground = "#d0d0d0"
 background = "#000000"
 
 [colors.footer_bar]
-foreground = "#eeeeee"
+foreground = "#d0d0d0"
 background = "#000000"

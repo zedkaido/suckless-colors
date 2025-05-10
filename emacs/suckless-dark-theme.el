@@ -1,7 +1,7 @@
 (deftheme suckless-dark)
 
 (setq s-black "#000000")
-(setq s-white "#eeeeee")
+(setq s-white "#d0d0d0")
 
 (setq s-silver "#d0d0d0")
 (setq s-light-grey "#bcbcbc")

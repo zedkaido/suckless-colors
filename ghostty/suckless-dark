@@ -5,26 +5,26 @@
 # -------------------------------------------
 
 background = #000000
-foreground = #eeeeee
+foreground = #d0d0d0
 
 palette = 0=#000000
 palette = 1=#ff0000
-palette = 2=#eeeeee
+palette = 2=#d0d0d0
 palette = 3=#ffd700
-palette = 4=#eeeeee
-palette = 5=#eeeeee
-palette = 6=#eeeeee
-palette = 7=#eeeeee
+palette = 4=#d0d0d0
+palette = 5=#d0d0d0
+palette = 6=#d0d0d0
+palette = 7=#d0d0d0
 palette = 8=#000000
 palette = 9=#ff0000
-palette = 10=#eeeeee
+palette = 10=#d0d0d0
 palette = 11=#ffd700
-palette = 12=#eeeeee
-palette = 13=#eeeeee
-palette = 14=#eeeeee
-palette = 15=#eeeeee
+palette = 12=#d0d0d0
+palette = 13=#d0d0d0
+palette = 14=#d0d0d0
+palette = 15=#d0d0d0
 
-cursor-color = #eeeeee
+cursor-color = #d0d0d0
 cursor-text = #000000
 
 selection-background = #000087
